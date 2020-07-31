@@ -19,7 +19,7 @@
       </description>
       <link>https://nl.ivansherbs.com/artikelen/-prevent-prostate-cancer-with-Ivan-Chai</link>
       <guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/new-beginnings/</guid>
-      <pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate>
+      <pubDate>Fri, 31 July 2020 01:40:32 GMT</pubDate>
       <category>prostatecancer</category>
       <category>cancer</category> 
 <enclosure url="https://www.cancer.org/cancer/prostate-cancer/about/what-is-prostate-cancer/_jcr_content/par/textimage/image.img.jpg/1591704729163.jpg" length="85122" type="image/jpeg" />

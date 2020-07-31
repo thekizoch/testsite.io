@@ -20,7 +20,7 @@
       <link>https://nl.ivansherbs.com/artikelen/-prevent-prostate-cancer-with-Ivan-Chai</link>
       <guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.app/new-beginnings/</guid>
       <pubDate>Thu, 30 Jul 2020 01:40:32 GMT</pubDate>
-      <category>prostatecancerTag1,cancerTag2,prostateTag3</category>
+      <category>prostate,cancer,urogenital</category>
 <enclosure url="https://www.cancer.org/cancer/prostate-cancer/about/what-is-prostate-cancer/_jcr_content/par/textimage/image.img.jpg/1591704729163.jpg" length="85122" type="image/jpeg" />
 <content:encoded>&lt;p&gt;&lt;img src=&quot;https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/articles/image_article_collections/anatomy_pages/prostategland2.jpg?resize=646px:*&amp;#x26;output-quality=100&quot;
         alt=&quot;picture5&quot;&gt;&lt;/p&gt; &lt;h1&gt;Voorkom prostaatkanker met Ivan Chai&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;Verzorg dagelijks lichaam en geest met kruiden uit Siberië&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Artikel
